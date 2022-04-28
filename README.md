@@ -1,0 +1,1 @@
+Setting up a main index page for a basic recipe website.
